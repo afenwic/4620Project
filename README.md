@@ -1,5 +1,5 @@
 # 4620Project
-The source code and csv files for the database project by Alexander Fenwick and Jackson Lee
+The source code and csv files for the database project by Alexander Fenwick (afenwic) and Jackson Lee (jsl4)
 
 The website is written entirely in php files disregarding the style sheet "style.css." The url provided in the Final Report links to the login page for the website. That page also provides a link to the new user registration page.
 
